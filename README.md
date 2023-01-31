@@ -23,7 +23,8 @@ Recent graduate with a Bachelor's degree in B.Pharm and a certificate in Data An
 ###
 
 ### <b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnawabali&show_icons=true&locale=en&layout=compact" alt="mdnawabali" /></p>
 
-<a href="http://www.github.com/Kaustubh-Amare"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh-Amare&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnawabali&show_icons=true&locale=en" alt="mdnawabali" /></p>
 
-<a href="http://www.github.com/Kaustubh-Amare"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaustubh-Amare&bg_color=1c1917&color=
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnawabali&" alt="mdnawabali" /></p>
