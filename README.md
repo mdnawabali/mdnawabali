@@ -9,7 +9,7 @@ Recent graduate with a Bachelor's degree in B.Pharm and a certificate in Data An
 
 * 🌍  I'm based in Bangalore, India.
 * 🖥️  See my portfolio at [linked in profile](http://www.linkedin.com/in/md-nawab-ali-08nov1999)
-* ✉️  You can contact me at [kaustubhamare197@gmail.com](mailto:mdnawabali.0811@gmail.com)
+* ✉️  You can contact me at [mdnawabali.0811@gmail.com](mailto:mdnawabali.0811@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
